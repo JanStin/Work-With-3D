@@ -1,6 +1,4 @@
-# Игнорировать папку node_modules
-/node_modules/*
-/dist/*
+# Игнорировать системный файл
 /debug.log
 
 # Игнорировать vs code
